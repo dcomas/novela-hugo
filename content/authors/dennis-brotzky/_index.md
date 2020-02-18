@@ -1,19 +1,14 @@
 ---
-title: Dennis Brotzky
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: /images/dennis-brotzky.jpg
+title: Diego Comas
+bio: 'Diego Comas is a Tech Lead Manager
+
+'
+avatar: "/images/Diego TM Picture light.jpg"
 featured: true
 social:
-  - title: unsplash
-    url: https://unsplash.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
+- title: unsplash
+  url: https://unsplash.com
+- title: github
+  url: https://github.com/diegocomas
+
 ---

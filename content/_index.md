@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: Security engineering vibes
+  heading: Good vibes about security engineering
   maxWidthPX: "652"
 
 ---

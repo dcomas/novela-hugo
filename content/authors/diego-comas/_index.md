@@ -1,13 +1,9 @@
 ---
 title: Diego Comas
-bio: 'Diego Comas is a Tech Lead Manager
-
-'
+bio: 'Diego Comas is the Product Security Engineering lead at Thought Machine.'
 avatar: "/images/Diego TM Picture light.jpg"
 featured: true
 social:
-- title: unsplash
-  url: https://unsplash.com
 - title: github
   url: https://github.com/diegocomas
 

@@ -1,6 +1,5 @@
 ---
 hero:
-  heading: Good vibes about security engineering
-  maxWidthPX: "652"
-
+  heading: I am Diego Comas - Product Security Engineering Lead.
+  maxWidthPX: 652
 ---

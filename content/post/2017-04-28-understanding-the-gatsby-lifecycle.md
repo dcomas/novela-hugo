@@ -1,11 +1,11 @@
 ---
-title: Building the new Hopper.com
-date: 2019-04-29
-hero: /images/hero-11.jpg
-excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel apps in the U.S, along with Uber, Lyft.
+title: Understanding the Gatsby lifecycle in depth
+date: 2017-04-28
+hero: /images/hero-2.jpg
+excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
 timeToRead: 4
 authors:
-  - Dennis Brotzky
+  - Diego Comas
 
 ---
 
@@ -117,6 +117,8 @@ And finally, once the generated files are deployed, Gatsby lives in the browser.
 
 What’s important to remember is that Gatsby’s lifecycle can be aggregated into 3 main sequences:
 
+![This is the alt text](./images/gatsby-narative-output.png)
+
 - Bootstrap
 - Build
 - Browser
@@ -180,5 +182,3 @@ Gatsby is built with React at its core and shares a common API pattern, the life
 Without the Gatsby lifecycle, it would be impossible to customize and modify your project beyond the base configuration, leaving developers with a rigid and poor developer experience. This power and flexibility has helped us build amazing web projects for clients like Hopper!
 
 Gatsby is a staple within our engineering process at Narative, helping us help our clients build the products they’ve always dreamed of, and the ones they’re yet to dream up.
-
-{{< subscribe email="something@good.com" >}}

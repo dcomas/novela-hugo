@@ -4,4 +4,4 @@ hero:
   maxWidthPX: "652"
 
 ---
-![](/images/Diego TM Picture light.jpg)
+![Diego Comas](/images/Diego TM Picture light.jpg "Diego Comas")
